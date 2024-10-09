@@ -26,16 +26,17 @@ The application uses Express.js for the server, Mongoose for MongoDB interaction
     🔑Content Security Policy (CSP): Adds Content Security Policy headers to help prevent XSS attacks.
 
   
-  🌐#Environment Management: 
+   # Environment Management: 
   
-   ## Uses dotenv for environment variable management.
+   🌐 Uses dotenv for environment variable management.
 
   
   # Middleware: 
+  
   🈴Parses JSON and URL-encoded data.
 
 
-🔰# Getting Started
+🔰 # Getting Started
 
 # Prerequisites
 - Node.js
@@ -51,7 +52,7 @@ The application uses Express.js for the server, Mongoose for MongoDB interaction
 
 - Start the server:
 
-✨API Endpoints
+# API Endpoints
 
 - GET /api/products: Retrieve all products.
 - GET /api/products/:id: Retrieve a product by ID.
