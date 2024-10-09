@@ -9,7 +9,7 @@ The application uses Express.js for the server, Mongoose for MongoDB interaction
 
  🍃MongoDB Integration: Uses Mongoose to interact with a MongoDB database.
 
-🔒 # Security Enhancements:
+ # 🔒 Security Enhancements:
     
     ⛑️Helmet: Sets various HTTP headers for security.
 
@@ -28,22 +28,24 @@ The application uses Express.js for the server, Mongoose for MongoDB interaction
   
    # Environment Management: 
   
-   🌐 Uses dotenv for environment variable management.
+   - 🌐 Uses dotenv for environment variable management.
 
   
   # Middleware: 
   
-  🈴Parses JSON and URL-encoded data.
+  - 🈴 Parses JSON and URL-encoded data.
 
 
-🔰 # Getting Started
+# Getting Started
 
 # Prerequisites
+
 - Node.js
 - npm (Node Package Manager)
 - MongoDB
 
 # Installation
+
 - Clone the repository:
 
 # Install dependencies:
