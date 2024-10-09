@@ -30,7 +30,6 @@ The application uses Express.js for the server, Mongoose for MongoDB interaction
   
    - 🌐 Uses dotenv for environment variable management.
 
-  
   # Middleware: 
   
   - 🈴 Parses JSON and URL-encoded data.
